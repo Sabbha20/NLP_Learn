@@ -1,0 +1,6 @@
+.nlpenv
+.ipynb_checkpoints
+.nlpenv/*.*
+.ipynb_checkpoints/*.*
+Resources
+Resources/*.*
