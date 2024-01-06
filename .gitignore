@@ -5,3 +5,4 @@
 Resources
 Resources/*.*
 .vscode/
+.DS_Store
